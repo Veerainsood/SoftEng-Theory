@@ -1,0 +1,52 @@
+Slide Dec 1:
+Q. Key differences between SE and Programmer(Table) + engineer/mason example
+
+
+Q. 3 significant contributions in SE from( NATO 1968 1969 discussion) which are challenges today
+
+	1)Software Crisis and Complexity: The conferences highlighted the growing complexity of software systems and the "software crisis," where projects were often delivered
+	late, over budget, and with defects. This challenge persists today as software systems become increasingly complex and integrated.
+
+	2)Software Engineering as a Discipline: The conferences advocated for treating software development as an engineering discipline, emphasizing systematic approaches,
+	rigorous methodologies, and best practices. Despite advances, the challenge of ensuring consistent, high-quality software development processes remains.
+
+	3)Proving correctness of programs: Dijkstra Highlighted the importance of making reliable software that could be proven correct to ensure reliability of critical used
+	software
+
+Q. 3 Future trends of SE
+	1) Adoption of programming languages which will be closer to human languages which will enable gifted problem solvers (gifted skill by God) from non technical backgrounds
+	to help humanity build a better and more sustainable future.
+	2) 
+What is Software Engineering anyway? -> write 3 definitions of SE Include one by Chimalakonda
+1) "Multi-person construction of multi-version software system."
+2) Systematic way of building large scale non trivial software intensive systems which satisfy user's needs and are designed under user's budget. (# 3 idiots feeling)
+3) Its a branch which deals with development of software systems so large so that they require a team of software engineers to 
+What are the key decisions for android project which must be avoided and are absolutely wrong.
+3 Coding activities where chatgpt fails horribly
+What skills of a SE are automated / will be automated by AI tools and why??
+
+Slide Dec 2:
+2 Primary differences between Verification and Validation give example for each
+Explain the Kano Model of qualities for a software chat application
+Sol: 
+	Kano's model is an attempt to describe features of software quality:
+	1) Dis-satisfiers: These are features of a software system which are "by-default" or "subconsciously" assumed to be present , they are the but minimum things expected
+	from the software. For a chat application features like: 
+		1) Encrypted (end to end) messaging. 
+		2) Reaching of message to person even if they are offline (not needing to send messages again).
+		3) Structure to support group messaging.
+	2) Satisfiers: These are features of a software system which are desired by the user. These are the features which make your product favourable of purchase by the user.
+	For a chat application features like:
+		1) Automatic backup of messages + provision of restore of messages.
+		2) support of multilingual chatting.
+		3) Video / Document / any other file sharing mechanisms. (not just limited to sending text messages).
+	3) Delighters: These are features of a software system which are unexpected by the user and which support additional useful functionality which is like a cherry on the
+	cake for your system and for attracting large user base.
+	For a chat application features like:
+		1) Unrestricted file size uploads.
+		2) Unlimited backup storage. (offered by telegram)
+		3) Provision for video calling.
+		4) allows sharing of pirated content like pirated e-books and netflix series.( 😎 supported by telegram) with little to no govt intervention.
+	
+Draw table to list Garvins 5 perspectives of Software Quality, explain each through example of banking software.
+Explain various kind of classification and categories of software qualities? Write an example for each for bookmyshow platform.
